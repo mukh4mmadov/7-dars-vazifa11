@@ -45,7 +45,7 @@ const Calendar: React.FC = () => {
   };
 
   const days = getDaysInMonth(currentDate);
-  const weekDays = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  const weekDays = ["Shan", "Du", "Se", "Chor", "Pay", "Ju", "Shan"];
 
   return (
     <div className="max-w-4xl mx-auto p-4">
